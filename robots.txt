@@ -1,0 +1,9 @@
+User-agent: Mediapartners-Google
+Disallow: 
+
+User-agent: *
+Disallow: /css
+Disallow: /js
+Allow: /
+
+Sitemap: https://alazharcirebon.github.io/sitemap.xml
