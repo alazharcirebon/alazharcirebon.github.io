@@ -1,2 +1,2 @@
-# cirebon.github.io
+# alazharcirebon.github.io
 SMA Islam Al-Azhar 5 Cirebon
